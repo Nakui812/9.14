@@ -1,0 +1,12 @@
+# ninja log v6
+13	107	7543599262009924	CMakeFiles/untitled35.dir/main.c.obj	e8de03f0327d5b6f
+5	106	7543601506739947	CMakeFiles/untitled35.dir/funzioni.c.obj	42afe0ff5ea33857
+107	227	7543601507770940	untitled35.exe	b452a6ab9d51db36
+4	90	7543601696282932	CMakeFiles/untitled35.dir/main.c.obj	e8de03f0327d5b6f
+91	209	7543601697149621	untitled35.exe	b452a6ab9d51db36
+6	106	7543602100910994	CMakeFiles/untitled35.dir/funzioni.c.obj	42afe0ff5ea33857
+107	222	7543602101918940	untitled35.exe	b452a6ab9d51db36
+5	98	7543603568593744	CMakeFiles/untitled35.dir/main.c.obj	e8de03f0327d5b6f
+99	227	7543603569534088	untitled35.exe	b452a6ab9d51db36
+5	96	7543603804159606	CMakeFiles/untitled35.dir/main.c.obj	e8de03f0327d5b6f
+96	218	7543603805078855	untitled35.exe	b452a6ab9d51db36
